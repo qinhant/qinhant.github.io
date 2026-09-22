@@ -17,3 +17,5 @@ For a local preview, run `python3 -m http.server 8000` in this folder and open h
 Minimal Light by Yaoyao Liu is released under CC0-1.0; its license is retained in `LICENSE`.
 
 The public Chinese CV is available at `assets/files/Qinhan_Tan_CV_ZH.pdf`. It retains the original CV content, with the WeChat contact removed from this public copy.
+
+The English CV is `assets/files/Qinhan_Tan_CV.pdf`, with the public homepage email and no phone number. Both CV download links appear below the profile links.
